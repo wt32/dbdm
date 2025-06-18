@@ -1,0 +1,29 @@
+# Tests
+*.test.js
+__tests__
+coverage
+
+# Development files
+.git
+.gitignore
+.eslintrc
+.prettierrc
+.editorconfig
+.vscode
+.idea
+
+# Documentation
+docs/
+wiki/
+*.md
+!README.md
+
+# Misc
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.DS_Store
+*.log
+*.tmp
+*.temp
